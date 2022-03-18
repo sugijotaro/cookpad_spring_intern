@@ -1,1 +1,1 @@
-puts "\e[31mHello\e[m\e[32mworld!\e[m"
+puts "\e[31mHello\e[m \e[32mWorld!\e[m"
