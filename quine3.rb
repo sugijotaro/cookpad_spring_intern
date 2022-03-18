@@ -1,0 +1,13 @@
+eval(
+%w(ev
+al(s=
+%q[pu
+ts"ev
+al(%w
+(eval
+(s=%q
+["+s+
+"])).
+join)
+"])).
+join)
