@@ -121,5 +121,24 @@ r+"          W"+
  ch        r+
 "K          "+
 
-32.chr+""+32.chr+""+32.chr+"\n"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"KK"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"KK"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K")).join)
+32          .c
+hr+"      "+32
+.c hr   +"" +3
+2.  chr+"\  n"
++3    2     .c
+hr          +"
+W"          +3
+2.          ch
+
+
+      r+
+    ""  +3
+    2.  ch
+   r+    ""
+   +32.chr+
+  ""      +3
+ 2.        ch
+r+          ""
+
++32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"KK"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"KK"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"\n"+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"W"+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+""+32.chr+"K"+32.chr+""+32.chr+""+32.chr+""+32.chr+"K")).join)
 
